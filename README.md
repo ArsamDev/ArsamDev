@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArsamDev
+- 👋 Hi, I’m @Shikamaru
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 <!---
